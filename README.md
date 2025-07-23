@@ -1,5 +1,5 @@
 # Apostila Completa: APIs com Node.js e TypeScript
-
+link: https://www.youtube.com/watch?v=6DGWzDxi6Cc
 ## Etapa 1: Fundamentos de Programação com JavaScript
 
 ### Objetivo
